@@ -1,29 +1,17 @@
 <template>
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+
+  <img src="./assets/intercorp.png" alt="" class="mx-auto p-6">
+
+  <div id="nav" class="container mx-auto my-12 font-bold p-6 text-center shadow-lg rounded-2xl bg-gray-50 m-auto">
+    <router-link to="/" class="font-bold text-blue-500">Home</router-link> |
+    <router-link to="/about" class="font-bold text-blue-300">Quienes somos</router-link>
+<!--    <router-link to="/contact" class="font-bold text-blue-500">Contact</router-link>-->
   </div>
-  <router-view/>
+
+  <router-view></router-view>
 </template>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
-
-#nav {
-  padding: 30px;
-}
-
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
 #nav a.router-link-exact-active {
   color: #42b983;
 }
