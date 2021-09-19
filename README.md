@@ -19,7 +19,12 @@ npm run build
 
 ## Prueba 
 Ejercicio para rotar en forma antihoraria (90 grados) matrices de 3x3 y 2x2. Ejemplo:
+
+Matriz de 2x2
 ```
-Matriz de 3x3 ---> [[1,2,3],[4,5,6],[7,8,9]]
-Matriz de 2x3 ---> [[1,2],[3,4]]
+[[1,2],[3,4]]
+```
+Matriz de 3x3
+```
+[[1,2,3],[4,5,6],[7,8,9]]
 ```
