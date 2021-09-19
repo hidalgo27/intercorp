@@ -12,11 +12,6 @@ npm install
 npm run serve
 ```
 
-### Compila y optimiza para producción
-```
-npm run build
-```
-
 ## Prueba 
 Ejercicio para rotar en forma antihoraria (90 grados) matrices de 3x3 y 2x2. Ejemplo:
 
