@@ -5,7 +5,7 @@ import Contact from '../views/Contact'
 const routes = [
   {
     path: '/',
-    name: 'Ejercicio intercorp',
+    name: 'Ejercicio INTERCORP',
     component: Home
   },
   {
