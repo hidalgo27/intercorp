@@ -1,6 +1,6 @@
 # Ejercicio Intercorp
 ## Tecnologia utilizado
-Utilice [Vue 3](https://v3.vuejs.org/guide/installation.html) con [Vue CLI](https://cli.vuejs.org/), para los estilos se uso [Tailwindcss](https://tailwindcss.com/).
+Utilice [Vue 3](https://v3.vuejs.org/guide/installation.html) con la estructura **[composition API](https://v3.vuejs.org/guide/composition-api-introduction.html#reacting-to-changes-with-watch)** y [Vue CLI](https://cli.vuejs.org/), para los estilos se uso [Tailwindcss](https://tailwindcss.com/).
 
 ### Codigo Principal
 El codigo donde esta el algoritmo se encuentra en esta ruta
